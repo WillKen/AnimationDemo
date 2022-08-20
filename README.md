@@ -1,6 +1,6 @@
 项目传送门：https://github.com/WillKen/AnimationDemo
 
-视频演示：[AnimationDemo｜游戏Demo演示-哔哩哔哩]()
+视频演示：[AnimationDemo｜游戏Demo演示-哔哩哔哩](https://b23.tv/Qik4Q8m)
 # 开发环境
 
 操作系统：macOS Monterey 12.5 （MacBook pro M1）
